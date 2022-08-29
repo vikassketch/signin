@@ -1,0 +1,39 @@
+
+body {
+  margin: 100px;
+  background-color: bisque ;
+}
+
+.header{
+  text-align: center;
+}
+
+.container{
+  border: 1px solid blue;
+  background-color: lightblue;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.bottom label{
+  display:block;
+  font-size: 25px;
+}
+
+.bottom input{
+  width:95%;
+  height:30px;
+  margin:5px;
+  font-size: 20px;
+  
+}
+
+.btn{
+  background: #000;
+  color: #fff;
+  width:30%;
+  height:30px;
+  margin-left:350px;
+  font-size: 20px;
+  border-radius: 5px;
+}
